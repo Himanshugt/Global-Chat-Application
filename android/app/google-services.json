@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "958856725409",
+    "project_id": "globalchatapp-fede8",
+    "storage_bucket": "globalchatapp-fede8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958856725409:android:dea80fb2c08e7a3ddb41e0",
+        "android_client_info": {
+          "package_name": "com.himanshugt.globalchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958856725409-nukd8q6kq2o7ses5plcb54eg57ikc5kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.himanshugt.globalchatapp",
+            "certificate_hash": "00a3be7c15ca33e40402559b567cff7250464fee"
+          }
+        },
+        {
+          "client_id": "958856725409-s0cpm66k3es86ertg85rupuroaca311j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdYa4WsFoyu61fCc2hFka53tluBPvetHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958856725409-s0cpm66k3es86ertg85rupuroaca311j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
